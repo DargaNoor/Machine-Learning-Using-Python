@@ -23,7 +23,7 @@ Each algorithm is meticulously implemented, providing a detailed walkthrough of 
 Graphs and visualizations play a pivotal role in extracting insights from the datasets. The use of seaborn and matplotlib libraries enhances the interpretability of algorithmic results.
 
 3) **Documentation:**
-A comprehensive PDF document is included, detailing the intricacies of various modules, their impact on the results, and providing insights into the datasets. If any point in future,say any additional methods or algorithms practised then document is continuously updated to the repository .
+A comprehensive PDF document is included, detailing the intricacies of various modules, their impact on the results, and providing insights into the datasets. If any point in future,say any additional methods or algorithms practised then documents are continuously updated to the repository .
 
 4) **Alternate Methods and Additional Insights:**
 The repository goes beyond basic implementations by discussing alternative methods and providing additional insights into each algorithm. This ensures a holistic understanding of the machine learning concepts.
